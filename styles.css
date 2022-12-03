@@ -9,6 +9,10 @@
     /* Font weights */
     --fw-regular: 500;
     --fw-bold: 700;
+
+    /* Font families */
+    --ff-fancy: 'Fraunces', serif;
+    --ff-basic: 'Montserrat', sans-serif;
 }
 
 /* Css Reset from Josh: https://www.joshwcomeau.com/css/custom-css-reset/ */
