@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\screenshot.png)
+![This is a screenshot of the project](images/screenshot.png "a screenshot of the project")
 
 ### Links
 
