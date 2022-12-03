@@ -106,7 +106,7 @@ body {
     /* Centering the card */
     display: grid;
     place-content: center;
-    margin: 1rem;
+
 }
 
 /* Design button */
