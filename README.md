@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://illustrious-griffin-add118.netlify.app/)
+- Solution URL: [Soultion URL on Netlify](https://illustrious-griffin-add118.netlify.app/)
 
 ### Built with
 
