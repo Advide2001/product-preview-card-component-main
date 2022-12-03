@@ -33,11 +33,12 @@
 	<main>
 		<article class="product">
 			<picture class="product__image">
-				<img src="images\image-product-mobile.jpg" alt="">
+				<source srcset="images\image-product-desktop.jpg" media="(min-width: 600px)" />
+				<img src="images\image-product-mobile.jpg" alt="Picture of a perfume bottle lying on the table">
 			</picture>
 
 			<div class="product__content">
-				<p>Preview</p>
+				<p class="product__category">Perfume</p>
 
 				<h1 class="product__title">Gabrielle Essence Eau De Parfum</h1>
 
@@ -48,11 +49,12 @@
 
 
 				<div class="flex-group">
-					<p class="product__price">$149.99</p>
-					<p class="product__orignal-price">$169.99</p>
+					<p class="product__price"><span class="visually-hidden">Discounted Price: </span>$149.99</p>
+					<p class="product__orignal-price"><span class="visually-hidden">Orignal Price: </span><s>$169.99</s>
+					</p>
 				</div>
 
-				<button class="button">Add to Cart</button>
+				<button class="button" data-icon="shopping-cart">Add to Cart</button>
 			</div>
 		</article>
 	</main>
